@@ -1,5 +1,5 @@
 <?php
-$dbhost ='localhost';
+$dbhost ='';
 $dbuser ='u121228870_pps';
 $dbpass ='ODv:V:^GbftL';
 $dbname ='db_pps';
