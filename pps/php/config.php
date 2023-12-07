@@ -1,8 +1,8 @@
 <?php
 $dbhost ='localhost';
-$dbuser ='u121228870_db_pps';
+$dbuser ='u121228870_pps';
 $dbpass ='ODv:V:^GbftL';
-$dbname ='db_pps';
+$dbname ='u121228870_db_pps';
 $db_dsn = "mysql:dbname=$dbname;host=$dbhost";
 try {
   $db = new PDO($db_dsn, $dbuser, $dbpass);
