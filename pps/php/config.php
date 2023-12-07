@@ -1,6 +1,6 @@
 <?php
-$dbhost ='';
-$dbuser ='u121228870_pps';
+$dbhost ='localhost';
+$dbuser ='u121228870_db_pps';
 $dbpass ='ODv:V:^GbftL';
 $dbname ='db_pps';
 $db_dsn = "mysql:dbname=$dbname;host=$dbhost";
