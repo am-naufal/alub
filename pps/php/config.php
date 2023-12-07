@@ -11,10 +11,10 @@ try {
 }
 $con=mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
 /*css.plugin.hancon <?php echo $base; ?>*/
-$base='http://localhost/pps/';
+$base='https://lubabulhasanah.2020tiputri.com/pps';
 /*control(link.redirect) <?php echo $basecon; ?>*/
-$basead='http://localhost/pps/admin/';
+$basead='https://lubabulhasanah.2020tiputri.com/pps/admin/';
 /*kelas(link.redirect) <?php echo $basekel; ?>*/
-$basegu='http://localhost/pps/guru/';
-$basewa='http://localhost/pps/walimurid/';
+$basegu='https://lubabulhasanah.2020tiputri.com/pps/guru/';
+$basewa='https://lubabulhasanah.2020tiputri.com/pps/walimurid/';
 ?>
