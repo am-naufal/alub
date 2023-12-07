@@ -1,7 +1,7 @@
 <?php
 $dbhost ='localhost';
 $dbuser ='root';
-$dbpass ='';
+$dbpass ='ODv:V:^GbftL';
 $dbname ='db_pps';
 $db_dsn = "mysql:dbname=$dbname;host=$dbhost";
 try {
