@@ -17,7 +17,6 @@
         <!-- place navbar here -->
     </header>
     <main>
-
         <div class="container-fluid">
             <div class="row p-5 justify-content-center align-items-center">
                 <div class="col-md-6 pt-5 pb-5">
@@ -49,8 +48,34 @@
                 </div>
             </div>
         </div>
+        <div class="container">
+        <div class="row gap-0 ">
+        <div class="col-4 p-0">
+            <img src="foto/1.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/2.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/3.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/4.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/5.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/6.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/7.jpg" alt="" width="100%">
+        </div>
+        </div>
 
+        </div>
     </main>
+
     <footer>
         <!-- place footer here -->
     </footer>
