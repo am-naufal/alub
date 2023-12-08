@@ -20,7 +20,7 @@
 
         <div class="container-fluid">
             <div class="row p-5 justify-content-center align-items-center">
-                <div class="col-md-6 pt-5 pb-5">
+                <div class="col-md-6 ">
                     <div class="">
                         <h1 class="text-center mt-5 mb-5 text-danger">SORRY!</h1>
                         <p class="h2 text-primary text-center">Our website is under Construction</p>
