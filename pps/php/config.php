@@ -6,9 +6,12 @@ $dbname ='u121228870_db_pps';
 $db_dsn = "mysql:dbname=$dbname;host=$dbhost";
 try {
   $con = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
+  var_dump($con);
+  exit;
 } catch (mysqli_sql_exception $e) {
   echo 'Koneksi gagal: ' . $e->getMessage();
 }
+
 
 /*css.plugin.hancon <?php echo $base; ?>*/
 $base='https://lubabulhasanah.2020tiputri.com/pps';
