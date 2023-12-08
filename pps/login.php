@@ -62,7 +62,7 @@ height: 100%;
           <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
       </div></p>
     <?php }$_SESSION['pesan'] = '';?>
-    <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1 card">
+    <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1 card p-3">
     <form action="php/<?php echo md5('login'); ?>" method="post">
     <h2 class="h3 text-center p-3 text-primary">Login</h2>
 
