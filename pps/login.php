@@ -47,9 +47,9 @@ height: 100%;
 <?php ?>
 <body class="" >
   
-  <section class="vh-100 mt-5">
+  <section class="vh-100 ">
   <div class="container-fluid h-custom">
-    <h3 class=" text-center pt-5 h1 ">Selamat Datang DI <br> LANGUAGE BOARDING HOUSE </h3>
+    <h3 class=" text-center pt-4 h1 ">Selamat Datang DI <br> LANGUAGE BOARDING HOUSE </h3>
     <div class="row d-flex justify-content-center align-items-center h-100">
       <div class="col-md-9 col-lg-6 col-xl-5">
      
