@@ -1,29 +1,29 @@
 <?php date_default_timezone_set('Asia/Jakarta');$date=date('Y-m-d'); require '../php/config.php'; require '../php/function.php'; session_start(); if(empty($_SESSION['c_admin'])){header('location:../login');} $na=mysqli_fetch_array(mysqli_query($con,"SELECT * FROM admin where c_admin='$_SESSION[c_admin]' ")); //$setting=mysqli_fetch_array(mysqli_query($con,"SELECT * FROM setting limit 1 ")); ?>
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Admin PPS</title>
-  <link rel="icon" href="favicon.ico">
-  <link rel="shortcut icon" href="<?php echo $base; ?>php/img/logo.ico">
-  <script type="text/javascript" src="<?php echo $basead; ?>main/js/jquery.js"></script>
-  <!-- Tell the browser to be responsive to screen width -->
-  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-  <!-- Bootstrap 3.3.6 -->
-  <link rel="stylesheet" href="<?php echo $base; ?>theme/bootstrap/css/bootstrap.min.css">
-  <!-- Font Awesome -->
-   <!-- DataTables -->
-  <link rel="stylesheet" href="<?php echo $base; ?>theme/plugins/datatables/dataTables.bootstrap.css">
-  <!-- jvectormap -->
-  <!-- Theme style -->
-  <link rel="stylesheet" href="<?php echo $base; ?>theme/dist/css/AdminLTE.min.css">
-
-  <!-- AdminLTE Skins. Choose a skin from the css/skins
-       folder instead of downloading all of them to reduce the load. -->
-  <link rel="stylesheet" href="<?php echo $base; ?>theme/dist/css/skins/_all-skins.min.css">
-  <link rel="stylesheet" href="<?php echo $base; ?>theme/plugins/iCheck/square/blue.css">
-  <script type="text/javascript">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Admin PPS</title>
+    <link rel="icon" href="favicon.ico">
+    <link rel="shortcut icon" href="<?php echo $base; ?>php/img/logo.ico">
+    <script type="text/javascript" src="<?php echo $basead; ?>main/js/jquery.js"></script>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <!-- Bootstrap 3.3.6 -->
+    <link rel="stylesheet" href="<?php echo $base; ?>theme/bootstrap/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <!-- DataTables -->
+    <link rel="stylesheet" href="<?php echo $base; ?>theme/plugins/datatables/dataTables.bootstrap.css">
+    <!-- jvectormap -->
+    <!-- Theme style -->
+    <link rel="stylesheet" href="<?php echo $base; ?>theme/dist/css/AdminLTE.min.css">
+    
+    <!-- AdminLTE Skins. Choose a skin from the css/skins
+    folder instead of downloading all of them to reduce the load. -->
+    <link rel="stylesheet" href="<?php echo $base; ?>theme/dist/css/skins/_all-skins.min.css">
+    <link rel="stylesheet" href="<?php echo $base; ?>theme/plugins/iCheck/square/blue.css">
+    <script type="text/javascript">
       $(document).ready(function() {
         $("#cari").keyup(function(){
         $("#fbody").find("tr").hide();
@@ -54,10 +54,11 @@
   <style type="text/css">
     body{font-family:arial;}
     .judul{width: 100%; background-color: #FFF; padding: 10px;margin-bottom: 10px; }
-  </style>
+    </style>
 </head>
 <body class="skin-green hold-transition fixed" 
 oncontextmenu="return false">
+<?php echo $base; ?>
 <!--modal ganti foto-->
 
 <script src="<?php echo $base; ?>php/olahangka.js"></script>
@@ -73,7 +74,7 @@ oncontextmenu="return false">
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top" role="navigation">
       <!-- Sidebar toggle button-->
-     <a href="#" class="glyphicon glyphicon-th" data-toggle="offcanvas" role="button" style="color: #fff;margin-top: 15px;margin-left: 15px;font-size: 15px;"> Menu
+      <a href="#" class="glyphicon glyphicon-th" data-toggle="offcanvas" role="button" style="color: #fff;margin-top: 15px;margin-left: 15px;font-size: 15px;"> Menu
       </a>
 
       <div class="navbar-custom-menu">
