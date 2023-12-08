@@ -1,8 +1,8 @@
 <?php
 $dbhost ='localhost';
-$dbuser ='root';
-$dbpass ='';
-$dbname ='u121228870_db_pps';
+$dbuser ='u121228870_lbh';
+$dbpass ='Jv;:hlSMLS2';
+$dbname ='u121228870_db_lbh';
 // $dbhost ='localhost';
 // $dbuser ='u121228870_pps';
 // $dbpass ='ODv:V:^GbftL';
