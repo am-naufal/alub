@@ -5,5 +5,5 @@
 // elseif(isset($_SESSION['c_orangtua'])){ header('location:walimurid/'); }
 // else{header('location:login');}
 
-header('location:maintenance_page.php');
+header('location:maintenance_page');
 ?>
