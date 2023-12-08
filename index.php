@@ -35,7 +35,7 @@
                                 <div class="d-grid gap-2">
                                     <button type="button" name="" id=""
                                         class="btn btn-primary rounded-5 p-2 col-8 m-auto fw-bolder">
-                                        Support saya
+                                        Support Nofal selalu
                                     </button>
                                 </div>
 
