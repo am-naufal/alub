@@ -16,6 +16,7 @@ else{
 	require 'rootcon.php';
 	$ru=new con();
 	$to=($_GET['thisposition']);
+	// var_dump($to);
 	if($to==md5('login')){
 		if($_POST['v']=='guru'){
 			$ru->loginguru($con,$_POST['username'],$_POST['password']);
