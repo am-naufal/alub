@@ -4,5 +4,5 @@
 // elseif(isset($_SESSION['c_guru'])){ header('location:guru/'); }
 // elseif(isset($_SESSION['c_orangtua'])){ header('location:walimurid/'); }
 // else{header('location:login');}
-
+include 'maintenance_page.php';
 ?>
