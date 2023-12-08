@@ -75,13 +75,13 @@
             <img src="foto/8.jpg" alt="" width="100%">
         </div>
         <div class="col-4 p-0">
-            <img src="foto/9.jpg" alt="" width="100%">
+            <img src="foto/9.JPG" alt="" width="100%">
         </div>
         <div class="col-4 p-0">
             <img src="foto/11.jpg" alt="" width="100%">
         </div>
         <div class="col-4 p-0">
-            <img src="foto/10.jpg" alt="" width="100%">
+            <img src="foto/10.JPG" alt="" width="100%">
         </div>
         <div class="col-4 p-0">
             <img src="foto/12.jpg" alt="" width="100%">
