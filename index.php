@@ -45,7 +45,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 p-5">
-                    <img src="php/img/j.png" alt="" width="100%">
+                    <img src="j.png" alt="" width="100%">
                 </div>
             </div>
         </div>
