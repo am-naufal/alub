@@ -47,10 +47,10 @@
                     </div>
                 </div>
                 <div class="col-md-6 p-5">
-                    <div class="card rounded-4">
+                    <div class="card rounded-4 ">
                         
               
-                    <div id="carouselExampleDark" class="carousel carousel-dark slide">
+                    <div id="carouselExampleDark" class="carousel carousel-dark slide overlay">
                         <div class="carousel-indicators">
                             <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0"
                                 class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -68,7 +68,7 @@
                                 </div>
                             </div>
                             <div class="carousel-item" data-bs-interval="2000">
-                                <img src="img/15.jpg" class="d-block w-100" alt="...">
+                                <img src="img/10.JPG" class="d-block w-100" alt="...">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>Second slide label</h5>
                                     <p>Some representative placeholder content for the second slide.</p>
