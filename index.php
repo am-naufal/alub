@@ -47,6 +47,9 @@
                     </div>
                 </div>
                 <div class="col-md-6 p-5">
+                    <div class="card">
+                        
+              
                     <div id="carouselExampleDark" class="carousel carousel-dark slide">
                         <div class="carousel-indicators">
                             <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0"
@@ -89,6 +92,7 @@
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Next</span>
                         </button>
+                    </div>
                     </div>
 
                     <!-- <img src="https://lubabulhasanah.2020tiputri.com/j.png" alt="" width="100%"> -->
