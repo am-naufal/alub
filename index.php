@@ -17,10 +17,9 @@
         <!-- place navbar here -->
     </header>
     <main>
-
         <div class="container-fluid">
             <div class="row p-5 justify-content-center align-items-center">
-                <div class="col-md-6 ">
+                <div class="col-md-6 pt-5 pb-5">
                     <div class="">
                         <h1 class="text-center mt-5 mb-5 text-danger">SORRY!</h1>
                         <p class="h2 text-primary text-center">Our website is under Construction</p>
@@ -35,7 +34,7 @@
                                 <div class="d-grid gap-2">
                                     <button type="button" name="" id=""
                                         class="btn btn-primary rounded-5 p-2 col-8 m-auto fw-bolder">
-                                        Support saya
+                                        SEMANGAT Nofalnya Alub
                                     </button>
                                 </div>
 
@@ -45,12 +44,53 @@
                     </div>
                 </div>
                 <div class="col-md-6 p-5">
-                    <img src="j.png" alt="" width="100%">
+                    <img src="https://lubabulhasanah.2020tiputri.com/j.png" alt="" width="100%">
                 </div>
             </div>
         </div>
+        <div class="container">
+        <div class="row gap-0 ">
+        <div class="col-4 p-0">
+            <img src="foto/1.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/2.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/3.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/4.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/5.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/6.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/7.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/8.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/9.JPG" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/11.jpg" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/10.JPG" alt="" width="100%">
+        </div>
+        <div class="col-4 p-0">
+            <img src="foto/12.jpg" alt="" width="100%">
+        </div>
+        </div>
 
+        </div>
     </main>
+
     <footer>
         <!-- place footer here -->
     </footer>
