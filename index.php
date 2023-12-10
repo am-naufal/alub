@@ -47,7 +47,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 p-5">
-                    <div class="card">
+                    <div class="card rounded-4">
                         
               
                     <div id="carouselExampleDark" class="carousel carousel-dark slide">
@@ -75,7 +75,7 @@
                                 </div>
                             </div>
                             <div class="carousel-item">
-                                <img src="img/6.jpg" class="d-block w-100" alt="...">
+                                <img src="img/alub_pp.jpg" class="d-block w-100" alt="...">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>Third slide label</h5>
                                     <p>Some representative placeholder content for the third slide.</p>
