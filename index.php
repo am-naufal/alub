@@ -49,7 +49,6 @@
                 <div class="col-md-6 p-5">
                     <div class="card rounded-4 ">
                         
-              
                     <div id="carouselExampleDark" class="carousel carousel-dark slide overlay">
                         <div class="carousel-indicators">
                             <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0"
