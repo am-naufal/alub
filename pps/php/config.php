@@ -22,10 +22,10 @@ try {
 /*kelas(link.redirect) <?php echo $basekel; ?>*/
 // $basegu='http://localhost/alub/pps/guru/';
 // $basewa='http://localhost/alub/pps/walimurid/';
- $base='https://lubabulhasanah.2020tiputri.com/pps/';
- $basead='https://lubabulhasanah.2020tiputri.com/pps/admin/'; 
+ $base='https://2020tiputri.com/lubabulhasanah/pps/';
+ $basead='https://2020tiputri.com/lubabulhasanah/pps/admin/'; 
  /*kelas(link.redirect) <?php echo $basekel; ?>*/
-$basegu='https://lubabulhasanah.2020tiputri.com/pps/guru/';
-$basewa='https://lubabulhasanah.2020tiputri.com/pps/walimurid/';
+$basegu='https://2020tiputri.com/lubabulhasanah/pps/guru/';
+$basewa='https://2020tiputri.com/lubabulhasanah/pps/walimurid/';
 /*control(link.redirect) <?php// echo $basecon; ?>*/
 ?>
