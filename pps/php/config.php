@@ -22,6 +22,7 @@ try {
 /*kelas(link.redirect) <?php echo $basekel; ?>*/
 // $basegu='http://localhost/alub/pps/guru/';
 // $basewa='http://localhost/alub/pps/walimurid/';
+
  $base='https://2020tiputri.com/lubabulhasanah/pps/';
  $basead='https://2020tiputri.com/lubabulhasanah/pps/admin/'; 
  /*kelas(link.redirect) <?php echo $basekel; ?>*/
